@@ -2,6 +2,7 @@
 #include<complex>
 #include<math.h>
 #include<vector>
+
 using namespace std;
 
 typedef complex<double> Complex;
