@@ -116,8 +116,6 @@ int main()
 
     fclose(file_pointer);
 
-    cout << "samples read = " << elements_read << "\n";
-
     /*for (size_t i = 0; i<samples.size(); ++i)
     {
         cout << setw(10) << i << setw(10) << samples[i] << '\n';
